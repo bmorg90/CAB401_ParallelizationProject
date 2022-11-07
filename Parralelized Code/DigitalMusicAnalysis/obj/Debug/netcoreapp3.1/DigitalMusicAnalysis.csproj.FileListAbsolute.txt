@@ -1,0 +1,61 @@
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.exe
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.deps.json
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.runtimeconfig.json
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.runtimeconfig.dev.json
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.dll
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.pdb
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.csproj.AssemblyReference.cache
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis_MarkupCompile.cache
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis_MarkupCompile.lref
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.g.resources
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.AssemblyInfoInputs.cache
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.AssemblyInfo.cs
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.csproj.CopyComplete
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.dll
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.pdb
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.genruntimeconfig.cache
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.exe
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.deps.json
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.runtimeconfig.json
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.runtimeconfig.dev.json
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.dll
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.pdb
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.csprojAssemblyReference.cache
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis_MarkupCompile.cache
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis_MarkupCompile.lref
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.g.resources
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.AssemblyInfoInputs.cache
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.AssemblyInfo.cs
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.csproj.CopyComplete
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.dll
+C:\Users\n10215662\Documents\New\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.pdb
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.exe
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.deps.json
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.runtimeconfig.json
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.runtimeconfig.dev.json
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.dll
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\DigitalMusicAnalysis.pdb
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.csproj.AssemblyReference.cache
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis_MarkupCompile.cache
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis_MarkupCompile.lref
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.g.resources
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.AssemblyInfoInputs.cache
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.AssemblyInfo.cs
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.csproj.CopyComplete
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.dll
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.pdb
+C:\Users\User\Documents\University\Year 3\Semester 2\CAB401\Assignment2\Parralelized Code\DigitalMusicAnalysis\obj\Debug\netcoreapp3.1\DigitalMusicAnalysis.genruntimeconfig.cache
